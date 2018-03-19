@@ -1,0 +1,2 @@
+# CuboCrafter
+Server Beta 
